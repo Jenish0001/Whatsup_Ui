@@ -1,7 +1,6 @@
 package com.example.whatsup_ui
 
 import android.os.Bundle
-import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.viewpager.widget.ViewPager
 import com.example.whatsup_ui.controller.Tabview_Adapter
